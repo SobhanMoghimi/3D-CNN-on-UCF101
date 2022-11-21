@@ -4,6 +4,7 @@ The model is trained with Tensorflow and Kears backend.
 
 ## Model
 The model is  sequential. It uses numpy dataset as input which is not very good for large datasets, but works good on UCF-101.
+
 ![Model Loss](https://github.com/SobhanMoghimi/3D-CNN-on-UCF101/blob/main/Model-Details.png)
 
 ## Results
